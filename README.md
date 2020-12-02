@@ -1,7 +1,9 @@
 <h3 align="center">Gustavo Maia Paes</h3>
 
+<div align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=gumpflash&show_icons=true&theme=radical"/><br/>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gumpflash&layout=compact&theme=radical"/>
+</div>
 
 <p align="justify">Olá👋, tudo bem? Meu nome é Gustavo Maia Paes, mais conhecido por Gump, sou front-end atualmente trabalhando na BrasilTrack, gosto de fazer jogos e adoro fazer projetos open source.</p>
 
