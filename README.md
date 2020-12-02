@@ -1,5 +1,8 @@
 <h3 align="center">Gustavo Maia Paes</h3>
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gumpflash&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gumpflash&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 <p align="justify">Olá👋, tudo bem? Meu nome é Gustavo Maia Paes, mais conhecido por Gump, sou front-end atualmente trabalhando na BrasilTrack, gosto de fazer jogos e adoro fazer projetos open source.</p>
 
 
