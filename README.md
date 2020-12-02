@@ -9,7 +9,7 @@
 - [📱 Redes Sociais](#redes-sociais)
 - [🤹 Competências](#competencias)
 - [💼 Experiências](#experiências)
-- [📚 Formação acadêmica](#formaçção-acadêmica)
+- [📚 Formação acadêmica](#formação-acadêmica)
 - [📞 Contato](#contato)
 
 
@@ -44,7 +44,7 @@
 
 
   
-### Experiencias
+### Experiências
 - (03/2019 - 12/2019) Alfa Networks - Estágiario Back-End PHP
 - (05/2020 - Atual) BrasilTrack - Estágiario Front-End VueJS
 
