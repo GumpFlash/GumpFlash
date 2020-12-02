@@ -8,8 +8,8 @@
 
 - [📱 Redes Sociais](#redes-sociais)
 - [🤹 Competências](#competencias)
-- [💼 Experiências](#experiencias)
-- [📚 Formação acadêmica](#formacao-academica)
+- [💼 Experiências](#experiências)
+- [📚 Formação acadêmica](#formaçção-acadêmica)
 - [📞 Contato](#contato)
 
 
