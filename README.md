@@ -31,12 +31,11 @@
 - HTML
 - CSS
 - PHP
-- MySql
 - Java
 - C#
   - Unity
   - .NET
-- JS
+- JS e TS
   - NodeJs
   - VueJS
   - ReactJS
