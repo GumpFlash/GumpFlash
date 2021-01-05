@@ -49,7 +49,7 @@
   
 ### Experiências
 - (03/2019 - 12/2019) Alfa Networks - Estágiario Back-End PHP
-- (05/2020 - Atual) BrasilTrack - Estágiario Front-End VueJS
+- (05/2020 - Atual) BrasilTrack - Programador Front-End VueJS
 
 
 
