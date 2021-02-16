@@ -4,7 +4,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=gumpflash&show_icons=true&theme=radical"/><br/><br/>
 </div>
 
-<p align="justify">Olá👋, tudo bem? Meu nome é Gustavo Maia Paes, mais conhecido por Gump, sou front-end atualmente trabalhando na BrasilTrack, gosto de fazer jogos e adoro fazer projetos open source.</p>
+<p align="justify">Olá👋, tudo bem? Meu nome é Gustavo Maia Paes, mais conhecido por Gump, sou estudante de ciência da computação e trabalho atualmente na CI&T, gosto de fazer jogos e adoro fazer projetos open source.</p>
 
 
 
@@ -48,14 +48,16 @@
 
   
 ### Experiências
+- (02/2021 - Atual) CI&T - Programador Estagiário 
+- (05/2020 - 02/2021) BrasilTrack - Programador Front-End VueJS
 - (03/2019 - 12/2019) Alfa Networks - Estágiario Back-End PHP
-- (05/2020 - Atual) BrasilTrack - Programador Front-End VueJS
 
 
 
 ### Formação acadêmica
-- (01/2018 - 12/2020) Colégio Técnico de Limeira (Unicamp) - Técnico de Informática + Ensino Médio
+- (02/2021 - ) Estácio - Ciência da Computação
 - (03/2020 - 03/2020) Departamento de Engenharia Informática (Coimbra) - Projeto de Internalização sobre segurança digital
+- (01/2018 - 12/2020) Colégio Técnico de Limeira (Unicamp) - Técnico de Informática + Ensino Médio
 
 
 
