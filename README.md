@@ -55,7 +55,7 @@
 
 
 ### Formação acadêmica
-- (02/2021 - ) Estácio - Ciência da Computação
+- (02/2021 - Atual) Estácio - Ciência da Computação
 - (03/2020 - 03/2020) Departamento de Engenharia Informática (Coimbra) - Projeto de Internalização sobre segurança digital
 - (01/2018 - 12/2020) Colégio Técnico de Limeira (Unicamp) - Técnico de Informática + Ensino Médio
 
