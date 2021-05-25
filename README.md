@@ -6,7 +6,7 @@
 
 <p align="justify">Olá👋, tudo bem? Meu nome é Gustavo Maia Paes, mais conhecido por Gump, sou estudante de ciência da computação e trabalho atualmente na CI&T, gosto de fazer jogos e adoro fazer projetos open source.</p>
 
-
+[Meu Site](https://gump.dev)
 
 ### Tópicos
 
@@ -19,11 +19,11 @@
 
 
 ### Redes Sociais
-- [Twitch](https://www.twitch.tv/gumpflash)
-- [Youtube](https://youtube.com/gumpflash)
+- [Twitch](https://www.twitch.tv/gumpdev)
+- [Youtube](https://youtube.com/gumpdev)
 - [Discord](https://discord.gg/XD2Vg58)
 - [Linkedin](https://www.linkedin.com/in/gustavo-maia-paes/)
-- [Twitter](https://twitter.com/gumpflash)
+- [Twitter](https://twitter.com/gumpdev_)
 
 
 
@@ -62,4 +62,4 @@
 
 
 ### Contato
-Email: gump2105@gmail.com
+Email: contato@gump.dev
