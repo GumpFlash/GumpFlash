@@ -1,7 +1,7 @@
 <h3 align="center">Gustavo Maia Paes</h3>
 
 <div align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=gumpflash&show_icons=true&theme=radical"/><br/><br/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=gumpdev&show_icons=true&theme=radical"/><br/><br/>
 </div>
 
 <p align="justify">Olá👋, tudo bem? Meu nome é Gustavo Maia Paes, mais conhecido por Gump, sou estudante de ciência da computação e trabalho atualmente na CI&T, gosto de fazer jogos e adoro fazer projetos open source.</p>
@@ -48,9 +48,9 @@
 
   
 ### Experiências
-- (02/2021 - Atual) CI&T - Programador Estagiário 
-- (05/2020 - 02/2021) BrasilTrack - Programador Front-End VueJS
-- (03/2019 - 12/2019) Alfa Networks - Estágiario Back-End PHP
+- (02/2021 - Atual) CI&T - Desenvolvedor
+- (05/2020 - 02/2021) BrasilTrack - Desenvolvedor Front-End VueJS
+- (03/2019 - 12/2019) Alfa Networks - Desenvolvedor Back-End PHP
 
 
 
