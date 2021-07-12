@@ -23,7 +23,7 @@
 - [Youtube](https://youtube.com/gumpdev)
 - [Discord](https://discord.gg/XD2Vg58)
 - [Linkedin](https://www.linkedin.com/in/gustavo-maia-paes/)
-- [Twitter](https://twitter.com/gumpdev_)
+- [Twitter](https://twitter.com/gumpdevs)
 
 
 
